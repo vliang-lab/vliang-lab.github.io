@@ -1,3 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Simple XML file with no CSS-->
+<?xml-stylesheet type="text/css" href="hw2.css"?>
+
+<!--Books are being donated by instructors and publishers.-->
 <book_catalog>Books are being donated by Instructors and Publishers
 	<heading>Welcome to our book catalog!</heading>
 	<computer_science pages="155">
