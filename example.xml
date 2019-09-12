@@ -1,9 +1,13 @@
 <?xml version="1.0"?>
 <ancient_wonders>
 <wonder>
-<name> Colossus of Rhodes</name>
-<location> Rhodes, Greece </location>
+<name>Colossus of Rhodes</name>
+<location>Rhodes, Greece</location>
 <height units="feet">107</height>
 </wonder>
+<wonder>
+<name>Great Pyramid of Giza</name>
+<location>Giza, Egypt</location>
+<height units="feet">455</height>
+</wonder>
 </ancient_wonders>
-
