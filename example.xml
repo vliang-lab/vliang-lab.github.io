@@ -1,13 +1,32 @@
-<?xml version="1.0"?>
-<ancient_wonders>
-<wonder>
-<name>Colossus of Rhodes</name>
-<location>Rhodes, Greece</location>
-<height units="feet">107</height>
-</wonder>
-<wonder>
-<name>Great Pyramid of Giza</name>
-<location>Giza, Egypt</location>
-<height units="feet">455</height>
-</wonder>
-</ancient_wonders>
+<book_catalog>Books are being donated by Instructors and Publishers
+	<heading>Welcome to our book catalog!</heading>
+	<computer_science pages="155">
+		<title>Introduction to HTML</title>
+		<author>Gardner, Joseph</author>
+		<publisher>Press&#169;</publisher>
+	</computer_science>	
+
+	<computer_science pages="255">
+		<title>Networking Infrastructure</title>
+		<author>Douglas, Adam; Dall, Janice</author>
+		<publisher>Cengage;&#169;</publisher>
+	</computer_science>	
+
+	<computer_science pages="355">
+		<title>Soft Skills in IT</title>
+		<author>Hunter, Mark</author>
+		<publisher>Bolding Publisher&#169;</publisher>
+	</computer_science>	
+
+	<computer_science pages="455">
+		<title>Network Security</title>
+		<author>Starter, Jennifer; Wrox, Yuri Adantov</author>
+		<publisher>Wrox &#169;</publisher>
+	</computer_science>	
+
+	<computer_science pages="555">
+		<title>XML &amp; JSON</title>
+		<author>Bell, Stuart</author>
+		<publisher>Cengage;&#169;</publisher>
+	</computer_science>	
+</book_catalog>
