@@ -5,6 +5,7 @@
 Title {
   font-weight: normal;
   font-weight: bold;
+  color: white;
 }
 </style>
  <Author>Joseph Gardner</Author>
